@@ -14,7 +14,7 @@ change file :)
 7. игнориуется конкретно файл override.tf игнорируется файл override.tf.json 
 8. игнорируется все файлы и папки с символами _override.tf override.tf.json
 9. игнорировать каталог .terraformrc и файл terraform.rc
-
+new line for 3 zadanie
 
 
 
